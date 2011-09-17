@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macromedia-extension
+	name="Panel Icons"
+	version="1.1.0"
+	type="commandpanel"
+	locked="false"
+	pkgtype="mxp"
+	plugin-manager-type="all-users"
+	enabled-for-enabled-all="true">
+	<author name="Timur Prokopiev"/>
+
+<products>
+<product name="Fireworks" version="10" primary="true" />
+</products>
+
+<description href="http://pojitonov.github.com/Panel-Icons">
+<![CDATA[Collection of icons for command panels in Fireworks.]]>
+</description>
+
+<update method="directlink" url="https://github.com/pojitonov/Panel-Icons/raw/master/updates/Panel-Icons.xml"/>
+
+<files>
+<file source="/Calculator.png" destination="$fireworks/Configuration/Command Panels/Calculator.png"/>
+<file source="/Calculator_over.png" destination="$fireworks/Configuration/Command Panels/Calculator_over.png"/>
+<file source="/Convert Pages To PSDs.png" destination="$fireworks/Configuration/Command Panels/Convert Pages To PSDs.png"/>
+<file source="/Convert Pages To PSDs_over.png" destination="$fireworks/Configuration/Command Panels/Convert Pages To PSDs_over.png"/>
+<file source="/Duplicate, Offset, Rotate.png" destination="$fireworks/Configuration/Command Panels/Duplicate, Offset, Rotate.png"/>
+<file source="/Duplicate, Offset, Rotate_over.png" destination="$fireworks/Configuration/Command Panels/Duplicate, Offset, Rotate_over.png"/>
+<file source="/Gradient Panel.png" destination="$fireworks/Configuration/Command Panels/Gradient Panel.png"/>
+<file source="/Gradient Panel_over.png" destination="$fireworks/Configuration/Command Panels/Gradient Panel_over.png"/>
+<file source="/Guide.png" destination="$fireworks/Configuration/Command Panels/Guide.png"/>
+<file source="/Guide_over.png" destination="$fireworks/Configuration/Command Panels/Guide_over.png"/>
+<file source="/LoremIpsum.png" destination="$fireworks/Configuration/Command Panels/LoremIpsum.png"/>
+<file source="/LoremIpsum_over.png" destination="$fireworks/Configuration/Command Panels/LoremIpsum_over.png"/>
+<file source="/Object.png" destination="$fireworks/Configuration/Command Panels/Object.png"/>
+<file source="/Object_over.png" destination="$fireworks/Configuration/Command Panels/Object_over.png"/>
+<file source="/Resize.png" destination="$fireworks/Configuration/Command Panels/Resize.png"/>
+<file source="/Resize_over.png" destination="$fireworks/Configuration/Command Panels/Resize_over.png"/>
+<file source="/Selection Sets.png" destination="$fireworks/Configuration/Command Panels/Selection Sets.png"/>
+<file source="/Selection Sets_over.png" destination="$fireworks/Configuration/Command Panels/Selection Sets_over.png"/>
+<file source="/Transform.png" destination="$fireworks/Configuration/Command Panels/Transform.png"/>
+<file source="/Transform_over.png" destination="$fireworks/Configuration/Command Panels/Transform_over.png"/>
+<file source="/CampusTools.png" destination="$fireworks/Configuration/Command Panels/pixel_lab/CampusTools.png"/>
+<file source="/CampusTools_over.png" destination="$fireworks/Configuration/Command Panels/pixel_lab/CampusTools_over.png"/>
+<file source="/Texture.png" destination="$fireworks/Configuration/Command Panels/Texture.png"/>
+<file source="/Texture_over.png" destination="$fireworks/Configuration/Command Panels/Texture_over.png"/>
+<file source="/PI_TextureList.png" destination="$fireworks/Configuration/Command Panels/PI_TextureList.png"/>
+<file source="/PI_TextureList_over.png" destination="$fireworks/Configuration/Command Panels/PI_TextureList_over.png"/>
+</files>
+
+</macromedia-extension>
