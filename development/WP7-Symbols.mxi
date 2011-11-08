@@ -37,8 +37,8 @@
 <file source="/Chat Bubble.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Chat Bubble.graphic.png"/>
 <file source="/Chat Bubble.jsf" destination="$fireworks/Configuration/Common Library/WP7/Chat Bubble.jsf"/>
 
-<file source="/Check Box.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Check Box.graphic.png"/>
-<file source="/Check Box.jsf" destination="$fireworks/Configuration/Common Library/WP7/Check Box.jsf"/>
+<file source="/Checkbox.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Check Box.graphic.png"/>
+<file source="/Checkbox.jsf" destination="$fireworks/Configuration/Common Library/WP7/Check Box.jsf"/>
 
 <file source="/Command Button.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Command Button.graphic.png"/>
 <file source="/Command Button.jsf" destination="$fireworks/Configuration/Common Library/WP7/Command Button.jsf"/>
